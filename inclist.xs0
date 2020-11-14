@@ -1,7 +1,1 @@
-/*
-    Incluse List
-    From default repo
-*/
-// Include List Format
-var include_path=__CONST_APP_INCLUDE_DIR; // To set include_path
-import(include_path+"/stdlib.xs0");
+import(__CONST_APP_INCLUDE_DIR+"/stdlib.xs0");
