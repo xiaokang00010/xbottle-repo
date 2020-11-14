@@ -1,0 +1,7 @@
+import("inclist.xs0");
+// Start here
+var app=class(){
+    var main={
+        return 0;
+    };
+};
